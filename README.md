@@ -1,11 +1,11 @@
-# FISPQ - Página de Consulta
+# FDS - Página de Consulta
 
-Esta página web disponibiliza dois arquivos PDF das Fichas de Informações de Segurança de Produtos Químicos (FISPQ) para o óleo diesel.
+Esta página web disponibiliza dois arquivos PDF das Fichas de Dados de Segurança (FDS) para o óleo diesel.
 
 ## Uso
 
 1. Abra a página HTML no seu navegador.
-2. Clique no botão correspondente à FISPQ que deseja consultar.
+2. Clique no botão correspondente à FDS que deseja consultar.
 3. O arquivo PDF será aberto em uma nova aba.
 
 ## Autor

@@ -15,8 +15,8 @@ body {
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  gap: 10px;
-  width: 200px;
+  gap: 20px;
+  width: 250px;
 }
 
 h1, p {
